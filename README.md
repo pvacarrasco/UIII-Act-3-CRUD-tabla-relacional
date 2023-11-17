@@ -39,3 +39,18 @@ Paola Vianney Armenta Carrasco
 
 ### Producto proveedor
 ![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/0812a4ca-2141-4787-ad4a-04d0e470025e)
+
+### Base de datos
+![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/94d58b42-fe25-406c-ba0e-a684de4e32b0)
+
+### Tabla productos
+![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/1733c4e3-c5f1-4466-b32d-3e6440114393)
+
+### Productos vendidos
+![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/1c3a1a7d-1a9c-4c7e-819f-f8ed0b5234f7)
+
+### Tabla proveedores
+![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/e0423bfa-d760-4157-a500-1192a53eb4a4)
+
+### Tabla ventas
+![image](https://github.com/pvacarrasco/UIII-Act-3-CRUD-tabla-relacional/assets/143549258/80652be1-749c-4ad8-9a6c-f60d87a6e29d)
